@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sport-shoes/static/css/main.7ee2ce34.css",
+    "main.js": "/sport-shoes/static/js/main.6e032e45.js",
+    "static/js/592.7f72a991.chunk.js": "/sport-shoes/static/js/592.7f72a991.chunk.js",
+    "index.html": "/sport-shoes/index.html",
+    "main.7ee2ce34.css.map": "/sport-shoes/static/css/main.7ee2ce34.css.map",
+    "main.6e032e45.js.map": "/sport-shoes/static/js/main.6e032e45.js.map",
+    "592.7f72a991.chunk.js.map": "/sport-shoes/static/js/592.7f72a991.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ee2ce34.css",
+    "static/js/main.6e032e45.js"
+  ]
+}
