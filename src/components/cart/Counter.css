@@ -1,0 +1,19 @@
+button {
+  width: 25px;
+}
+
+.div-counter {
+  margin: 10px;
+}
+
+.btn-1 {
+  border: 1px solid #fff;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.btn-2 {
+  border: 1px solid #fff;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}

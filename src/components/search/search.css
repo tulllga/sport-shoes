@@ -1,0 +1,35 @@
+.input-box {
+  border: none;
+  border-bottom: 5px solid orange;
+  border-radius: 10px;
+  width: 250px;
+  /* line-height: 30px; */
+  padding: 10px;
+  margin: 10px;
+}
+.select-box {
+  border: none;
+  border-bottom: 5px solid orange;
+  border-radius: 10px;
+  width: 150px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.input-min {
+  border: none;
+  border-bottom: 5px solid orange;
+  border-radius: 10px;
+  width: 100px;
+  padding: 10px;
+  margin-left: 50px;
+}
+
+.input-max {
+  border: none;
+  border-bottom: 5px solid orange;
+  border-radius: 10px;
+  width: 100px;
+  padding: 10px;
+  margin: 10px;
+}
